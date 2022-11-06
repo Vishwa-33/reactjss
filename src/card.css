@@ -1,0 +1,217 @@
+/* ------------------na------------- */
+li{
+    padding: 5px;
+}
+
+.nav-link{
+
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+   
+
+}
+.nav-link:hover{
+
+  
+    border-bottom: 4px solid red;
+
+}
+
+
+
+.new{
+    background-color: aliceblue;
+    border-bottom-left-radius: 40px;
+}
+
+.background{
+    background: red;
+    border: solid red;
+    height: 615px;width: 100%;
+  
+}
+
+
+
+
+.content{
+    margin-top: 250px;
+
+}
+
+/* -------------------contact box------------ */
+/* .contactbox{
+
+    height: 100px;width: 100px;
+   
+    background-color: red;
+    margin-top: 150px;
+    
+    border-bottom-left-radius: 40px;  
+    
+} */
+
+.mail{
+    background-color:white;
+    border-radius: 10px;
+    border-top:  100px;
+   
+    
+
+}
+
+.phone{
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.enquiry{
+    background: red;
+    margin-top: 120px;
+    border-radius: 15px;
+}
+
+
+.enquiry:hover{
+    border: 5px solid blue;
+}
+
+.infodiv{
+    margin-top: 70px;
+}
+
+/* --------------------------about---------------------------- */
+.about{
+    
+    
+    background-color: red;
+    border-bottom-left-radius: 40px;
+}
+
+.aboutpic{
+   
+    border-bottom-left-radius: 25px;
+}
+
+/* -------------------------aboutpic---------------------- */
+.pic{
+    border-bottom-left-radius: 20px;
+    
+    height: 40vh;
+    width: 42vw;
+   
+}
+/* ----------------------get quote------------------- */
+.getquote{
+    border-bottom-left-radius: 25px;
+}
+
+.slide-right {
+    width: 100%;
+    overflow: hidden;
+    margin-left: 400px;
+    max-width: 500px
+ }
+ 
+ .m .k{
+    animation: 2s slide-right;
+    animation-delay: 2s;
+ }
+ 
+ @keyframes slide-right {
+     from {
+        margin-left: -500px;
+     }
+ 
+     to {
+        margin-left: 0%;
+     }
+    }
+
+
+
+    .iconmap{
+        height: 50px;width: 70px;
+    }
+
+    
+    .iconarrow{
+        height: 50px;width: 70px;
+    }
+
+.box{
+
+    border: solid 1px;
+}
+
+    .box:hover{
+border: solid red;
+
+    }
+
+
+    
+.ourwork{
+
+    text-align: center;
+
+}      
+.getquote{
+    border-bottom-left-radius: 20px;
+    border: solid 3px red;
+}
+
+.getquote:hover{
+    border: 5px solid whitesmoke;
+
+}
+   
+
+
+.form{
+    background-color: red;
+    border-bottom-left-radius: 30px;
+    
+}
+
+form{
+    margin-top: 100px;
+}
+
+
+.service{
+
+        animation: 2s slide-right;
+        animation-delay: 2s;
+     }
+     
+     @keyframes slide-right {
+         from {
+            margin-left: -500px;
+         }
+     
+         to {
+            margin-left: 0%;
+         }
+        }
+    
+        .iconarroww{
+            height: 50px;width: 70px;
+            
+        }
+    
+        .icon{
+            text-align: center;
+        
+        }
+
+        .link:hover{
+
+  
+            border-bottom: 4px solid red;
+        
+            
+        
+        }
